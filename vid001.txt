@@ -7,3 +7,8 @@ Title : Creating React app
 
 2 - What is the difference between npm and npx?
     In simple word npm takes computer storage but npx does not.
+
+3 - What are props?
+    Props are arguments passed into React components.
+    e.g:
+    I have a form with some fields. When I will send that form with values filled in that fields then these values are nothing but props.
