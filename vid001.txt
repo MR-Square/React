@@ -1,0 +1,9 @@
+Title : Creating React app
+
+1 - How to create a react app?
+    To create a react app we use following commands:
+    npm install create-react-app app_name
+    npx install create-react-app app_name
+
+2 - What is the difference between npm and npx?
+    In simple word npm takes computer storage but npx does not.
