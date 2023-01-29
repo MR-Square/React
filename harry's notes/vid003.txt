@@ -1,0 +1,12 @@
+Title : JavaScript Refreshar
+
+1 - Which Js Topics we must know for react?
+    variables declaration
+    data types
+    operators
+    loops
+    funciton
+    arrow funciton
+    array
+    string & array methods
+    
