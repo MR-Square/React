@@ -1,0 +1,19 @@
+Title: Understanding Props & PropTypes in React
+
+1 - How to add props types of a component?
+    To add PropTypes we need to import this
+    import PropTypes from 'prop-types';
+    Then we can add the datatypes of each props as follow
+    Navbar.propTypes = {
+    title: PropTypes.string,
+    skills : PropTypes.number,
+    }
+
+2 - How can we add props default values of a component?
+    You can set default values of props in component file(.js file) like this
+    Navbar.defaultProps = {
+    title : 'Set title here',
+    aboutText : 'Set About'
+    }
+    here Navbar is the name of component.
+
