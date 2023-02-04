@@ -5,7 +5,7 @@ Course Repo     	: (private)
 Course Folder	:  my-app
 Course Tracking:
 vid no : 7
-timing : 4:19
+timing : 14:01
 
 ======================================================================================================
 Course Name     	: React Js Tutorial in Hindi

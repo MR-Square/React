@@ -1,12 +1,13 @@
 import './App.css';
 import Navbar from './components/Navbar';
-
-
+import TextForm from './components/TextForm';
 function App() {
   return (
     <>
       <Navbar title="Project-1" aboutText="About Me" />
-      {/* <Navbar/> */}
+      <div className="container">
+        <TextForm heading="Enter your text below:"/>
+      </div>
     </>
   );
 }
