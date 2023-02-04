@@ -4,5 +4,15 @@ Course link     	: https://www.youtube.com/watch?v=-mJFZp84TIY&list=PLu0W_9lII9a
 Course Repo     	: (private)
 Course Folder	:  my-app
 Course Tracking:
-vid no : 6
-timing : 21:00
+vid no : 7
+timing : 4:19
+
+======================================================================================================
+Course Name     	: React Js Tutorial in Hindi
+Course owner    	: Code step by step
+Course link     	: https://www.youtube.com/watch?v=9Tz2tY-ZEwQ&list=PL8p2I9GklV47BCAjiCtuV_liN9IwAl8pM
+Course Repo     	: (private)
+Course Folder	:  CodeStepByStep
+Course Tracking:
+vid no : 2
+timing : 05:25
