@@ -4,8 +4,8 @@ Course link     	: https://www.youtube.com/watch?v=-mJFZp84TIY&list=PLu0W_9lII9a
 Course Repo     	: (private)
 Course Folder	:  my-app
 Course Tracking:
-vid no : 7
-timing : 14:01
+vid no : 8
+timing : 7:24
 
 ======================================================================================================
 Course Name     	: React Js Tutorial in Hindi

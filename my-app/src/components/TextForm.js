@@ -13,6 +13,12 @@ export default function TextForm(props) {
     setText(newText);
   };
 
+  const handleLoClick = () => {
+    // console.log("upper case is clicked");
+    let newText = text.toLowerCase();
+    setText(newText);
+  };
+
   const handleOnChange = (event) => {
     // console.log("on changed");
     setText(event.target.value);
@@ -33,6 +39,19 @@ export default function TextForm(props) {
       <button className="btn btn-primary" onClick={handleUpClick}>
         Uppercase
       </button>
+      <br />
+      <br />
+      <button className="btn btn-primary" onClick={handleLoClick}>
+        Lowercase
+      </button>
+      <div className="container">
+        <h1>Text Analysis:</h1>
+        <p>
+          Your text contains {text.split(" ").length} words and {text.length} characters.
+          <br />
+          Time requeird to read the content : {0.008 * text.split(" ").length}
+        </p>
+      </div>
     </>
   );
 }
