@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 export default function TextForm(props) {
-  const [text, setText] = useState("Enter your text here.");
+  const [text, setText] = useState("");
   // text is a state(variable). we can update value of text varible through setText function.
   // 'Enter your text here.' is default value of text variable.
   // text = "wrong way to update the value of text variable"
@@ -36,12 +36,12 @@ export default function TextForm(props) {
           onChange={handleOnChange}
         ></textarea>
       </div>
-      <button className="btn btn-primary" onClick={handleUpClick}>
+      <button className="btn btn-primary " onClick={handleUpClick}>
         Uppercase
       </button>
+      {/* <br /> */}
       <br />
-      <br />
-      <button className="btn btn-primary" onClick={handleLoClick}>
+      <button className="btn btn-primary my-1" onClick={handleLoClick}>
         Lowercase
       </button>
       <div className="container">
